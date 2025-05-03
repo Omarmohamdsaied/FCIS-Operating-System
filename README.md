@@ -1,3 +1,56 @@
+<h1 align="center">🖥️ FCIS Operating System (FOS)</h1>
+
+
+A full-fledged educational operating system developed in **C**, designed as part of the Computer Science curriculum at FCIS.  
+This project showcases deep systems-level programming by progressing through three major development milestones.
+
+---
+
+## 🚀 Project Overview
+
+**FOS** is a custom-built operating system that includes essential OS functionalities such as:
+
+- Command execution
+- Memory management
+- CPU scheduling
+
+It was developed incrementally in the following core milestones:
+
+---
+
+## ✅ Milestone 1 – System Foundation
+
+- Developed a built-in **command prompt (shell)**
+- Implemented essential **system calls** (e.g., file handling, process management)
+- Introduced **dynamic memory allocation** to lay the groundwork for system operations
+
+---
+
+## ✅ Milestone 2 – Memory Management
+
+- Implemented separate **kernel** and **user heaps**
+- Built a **memory fault handler** to improve stability
+- Enhanced system reliability through structured **memory control**
+
+---
+
+## ✅ Milestone 3 – Advanced Features
+
+- Integrated **advanced fault handling mechanisms**
+- Developed a **CPU scheduler** to manage multitasking and process priorities
+- Improved overall system **responsiveness and performance**
+
+---
+
+> 🧠 This project demonstrates practical applications of OS concepts such as memory protection, context switching, and low-level resource control — all built from scratch.
+
+
+
+
+
+
+
+
 # FCIS Operating System - FOS (v1 & v2)
 
 [FOS][fos-v1] is an educational OS for Ain Shams University Operating Systems Course CSW355, forked and refactored from [MIT Operating Systems Lab 6.828][mit-6.828]. It was created by [Dr. Mahmoud Hossam][dr-m-h] and currently maintained by [Dr. Ahmed Salah][dr-a-s].
